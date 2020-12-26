@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+#birthday-div{
+ text-align: center;
+ /* outline: 1px solid red; */
+ /* padding: 1rem; */
+ margin: 2rem;
+
+
+}
+
+#lucky-div{
+    text-align: center;
+ /* outline: 1px solid red; */
+ /* padding: 1rem; */
+ margin: 2rem;
+ 
+
+}
+
+/* #user-click{
+    text-align: center;
+    display: block; */
+
+/* } */
+#button-div{
+    text-align: center;
+    /* outline: 1px solid red; */
+    margin: 1rem;
+
+}
+
+#output-div{
+    text-align: center;
+}
